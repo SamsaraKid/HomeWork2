@@ -1,0 +1,45 @@
+body{
+  font-family: Calibri;
+    text-align: left;
+}
+
+
+header{
+    font-size: 30px;
+    font-weight: bold;
+    padding-bottom: 0px;
+}
+
+.section1{
+    padding-top: 0px;
+    font-size: 15px;
+}
+
+section2{
+    word-spacing: 30px;
+    font-size: 20px;
+}
+
+section3{
+
+    font-size: 30px;
+    font-weight: bold;
+}
+
+section4{
+    font-size: 15px;
+}
+
+section5{
+
+}
+
+section6{
+
+}
+
+footer{
+    text-align: center;
+    color: gray;
+    font-size: 12px;
+}

@@ -1,0 +1,13 @@
+body{
+  font-family: Calibri;
+  text-align: left;
+}
+
+header{
+    font-size: 30px;
+    font-weight: bold;
+}
+
+ footer{
+     padding-top: 30px;
+ }
